@@ -30,7 +30,7 @@ public class Silbentrennen
             if(i > 1){
                 int charIDb = i - 1;
                 int charIDa = i;
-                int charIDc = i + - 2;
+                int charIDc = i - 2;
                 String space = " ";
                 String charA = characters.get(charIDa);
                 String charB = characters.get(charIDb);
